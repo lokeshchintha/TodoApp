@@ -19,3 +19,6 @@ after adding tasks it can be shown like this
 showing all the activity
 it also have searchn button
 ![3](https://github.com/lokeshchintha/TodoApp/assets/84376848/5dc77f0f-13a6-4874-8506-36c552d02e1e)
+
+
+slide left to delete task and right if task is completed 
